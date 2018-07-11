@@ -11,6 +11,7 @@ public class HelloWorld {
 		// master에 소스 추가
 		// remore > Release push
 		// Local > New Branch -> Remote Master Merge
+		// local > master
 	}
 
 }
